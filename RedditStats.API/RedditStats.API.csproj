@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RedditStats.Common\RedditStats.Models.csproj" />
+    <ProjectReference Include="..\RedditStats.Models\RedditStats.Models.csproj" />
     <ProjectReference Include="..\RedditStats.Services\RedditStats.Services.csproj" />
   </ItemGroup>
 
